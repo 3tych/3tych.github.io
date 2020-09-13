@@ -1,0 +1,16 @@
+{
+"companyName": "TrueniverseCreations",
+"productName": "Big Bucks Quest Adventure",
+"productVersion": "0.1",
+"dataUrl": "Beta 0.3 Browser.data.unityweb",
+"wasmCodeUrl": "Beta 0.3 Browser.wasm.code.unityweb",
+"wasmFrameworkUrl": "Beta 0.3 Browser.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#333333",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.3f1"
+}
